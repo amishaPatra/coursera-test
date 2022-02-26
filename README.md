@@ -1,2 +1,1 @@
-# coursera-test
-Coursera test repository
+This is sunday and i am happy
